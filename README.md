@@ -80,7 +80,7 @@ If there are no intersections:
 {
   "intersections": []
 }
-```json
+```
 
 
 Testing with Postman/cURL
