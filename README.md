@@ -92,8 +92,10 @@ Send a POST request to http://localhost:3000/api/intersections with the linestri
 Review the response to see the intersections or the empty array.
 
 Dependencies
-Express.js
-Node.js
-turf.js
-Contributing
+Node.Js
+Express.Js
+Turf.Js
+
+
+Contribution
 Contributions are welcome! If you find any issues or have suggestions for improvements, please create a new issue or submit a pull request.
