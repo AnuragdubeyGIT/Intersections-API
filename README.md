@@ -48,7 +48,7 @@ package.json: Manages the project dependencies.
 This endpoint finds the intersections between a linestring and a set of lines.
 
 Request Body:
-
+```json
 {
  "linestring": {
    "type": "LineString",
@@ -80,8 +80,7 @@ If there are no intersections:
 {
   "intersections": []
 }
-
-
+```json
 
 
 Testing with Postman/cURL
