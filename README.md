@@ -59,9 +59,9 @@ Request Body:
    ]
  }
 }
-Response:
+"Response:"
 
-If there are intersections:
+"If there are intersections:"
 {
   "intersections": [
     {
@@ -75,7 +75,7 @@ If there are intersections:
     ...
   ]
 }
-If there are no intersections:
+"If there are no intersections:"
 
 {
   "intersections": []
@@ -91,6 +91,7 @@ Send a POST request to http://localhost:3000/api/intersections with the linestri
 Review the response to see the intersections or the empty array.
 
 Dependencies
+
 Express.js
 Node.js
 turf.js
