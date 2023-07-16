@@ -23,8 +23,11 @@ npm start
 
 
 **Project Structure**
+
 Following are the files which I have used in my project structure.
+
 App.js: The main entry point of the application. It sets up the server and defines the API routes.
+
 controllers/intersectionController.js: Contains the logic for finding intersections between the linestring and the lines.
 middleware/authMiddleware.js: This file contains the logic to perform header based authentication using Json web token.
 routes/intersectionRoutes.js: Defines the API routes and maps them to the corresponding controller methods.
