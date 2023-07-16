@@ -1,5 +1,4 @@
 # Intersections-API
-Overview
 The Intersections API is a mapping-based application developed using Express-NodeJS. It integrates the Turf.js library for Node.js to perform intersection calculations. The API allows users to find intersections between a given linestring and a set of randomly spread lines on a plane.
 
 ## Installation
