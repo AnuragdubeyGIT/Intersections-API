@@ -84,13 +84,11 @@ Request Body:
 
 
 
-Testing with Postman/cURL
-To test the API using Postman or cURL:
+Testing with Postman/cURL  
 
+To test the API using Postman or cURL:   
 Make sure the server is running (npm start).
-
-Send a POST request to http://localhost:3000/api/intersections with the linestring data in the request body.
-
+Send a POST request to http://localhost:3000/api/intersections with the linestring data in the request body.   
 Review the response to see the intersections or the empty array.
 
 Dependencies
